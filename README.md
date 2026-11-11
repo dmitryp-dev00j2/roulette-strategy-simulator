@@ -5,4 +5,4 @@ suicidal or just misunderstood. This simulates European roulette sessions
 with configurable strategies, bankroll, and stop conditions.
 
 
-<!-- verified: 2026-11-10 -->
+<!-- verified: 2026-11-11 -->
